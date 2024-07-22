@@ -15,7 +15,7 @@ public class AccountTest {
     @SuppressWarnings("unused")
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Account account = null; // Variable to hold either CurrentAccount or SavingAccount
+        Account account = null; 
 
         System.out.println("Choose account type:");
         System.out.println("1. Current Account");
